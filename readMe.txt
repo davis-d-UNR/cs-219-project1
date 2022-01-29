@@ -9,6 +9,6 @@ there is no special downloads to be made for this Project
 ## Meta
 Davis Dunkley - ddunkley@gmail.com
 
-[Github]davis-d-UNR
+[Github]davis-d-UNR https://github.com/davis-d-UNR/cs-219-project1.git
 ## Contributing
 
